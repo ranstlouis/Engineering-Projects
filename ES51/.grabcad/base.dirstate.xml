@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2019-12-09T14:35:16.5904385+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>6389K627_LIGHT DUTY DRY-RUNNING SLEEVE BEARING.SLDPRT</FileName>
+      <SHA1>B61F361FB3ADFB63C36D057C5771551532BD2B15</SHA1>
+      <FileSize>89761</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>90126A505_ZINC-PLATED STEEL SAE FLAT WASHER.SLDPRT</FileName>
+      <SHA1>F95C4B9A684039A47A5611B069515C4B03EF0F96</SHA1>
+      <FileSize>70643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91772A108_18-8 SS PAN HEAD PHILLIPS MACHINE SCREW.SLDPRT</FileName>
+      <SHA1>0004928564A1FA665AA345F03975D717E92F4522</SHA1>
+      <FileSize>654162</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91772A112_18-8 SS PAN HEAD PHILLIPS MACHINE SCREW.SLDPRT</FileName>
+      <SHA1>BA94AF01CA4627AE879AC13B248A6E3C67E80B92</SHA1>
+      <FileSize>588584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91801A135 (1).SLDPRT</FileName>
+      <SHA1>9FB176589E12221A687CE08EDFC55C26A46E561F</SHA1>
+      <FileSize>808502</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>91845A029_TYPE 18-8 STAINLESS STEEL HEX NUT.SLDPRT</FileName>
+      <SHA1>CA92DEBA1250E0434CAED7EC2E276040091EE012</SHA1>
+      <FileSize>364770</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>98804A487_18-8 STAINLESS STEEL THREADED ROD.SLDPRT</FileName>
+      <SHA1>E05FD7F23845A85FCFD096E7690E5EF93FE74786</SHA1>
+      <FileSize>1411622</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Chassis_top-redo.DXF</FileName>
+      <SHA1>518A76DF66E195948003E6B74D53C22032755E62</SHA1>
+      <FileSize>23691</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\90480A005_LOW-STRENGTH STEEL HEX NUT.SLDPRT</FileName>
+      <SHA1>7B34B860528E15EA79B5BE2F577155C42940DF27</SHA1>
+      <FileSize>286949</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\91772A110_18-8 SS PAN HEAD PHILLIPS MACHINE SCREW.SLDPRT</FileName>
+      <SHA1>B10025216BB584EF86B898E2FF15D9B088DAADF8</SHA1>
+      <FileSize>612280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\91772A113_18-8 SS PAN HEAD PHILLIPS MACHINE SCREW.SLDPRT</FileName>
+      <SHA1>39199B31BC951A1D88EF3A746348F9D068AC56FC</SHA1>
+      <FileSize>953757</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\Chassis_Side.DXF</FileName>
+      <SHA1>57A2BF0D2827BD2C40FA08039CA8AD045F8C643E</SHA1>
+      <FileSize>30209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\Chassis_Side.SLDPRT</FileName>
+      <SHA1>B511F1FA0F656FF17D24C9B55DDCB714626C086D</SHA1>
+      <FileSize>141040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\Chassis_top.DXF</FileName>
+      <SHA1>F11A7A447FD20361AC4610D5CCCBF2D1F522698F</SHA1>
+      <FileSize>40660</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\Chassis_top.SLDPRT</FileName>
+      <SHA1>D857359E17E13EDE9FC2D9AD58248080B45455F3</SHA1>
+      <FileSize>221276</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Chasis v1.0\Chassis_v1.0.SLDASM</FileName>
+      <SHA1>C32F32A649D1F1965B674639ECB4738450851757</SHA1>
+      <FileSize>805766</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Delrin shaft support tensioner.SLDPRT</FileName>
+      <SHA1>022044F2240FF2123D8DFDE03B6ADA0627202360</SHA1>
+      <FileSize>68375</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Big Washer.SLDPRT</FileName>
+      <SHA1>9436FF98494A8F12705095F020C40FCDB0C10CFA</SHA1>
+      <FileSize>60501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Delrin shaft support tensioner.SLDDRW</FileName>
+      <SHA1>13647BF810D8202C3BEF36D30269E2A710780CEA</SHA1>
+      <FileSize>103296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Delrin shaft support.SLDPRT</FileName>
+      <SHA1>B8598C317E53F7156D8B451A7BA362AF849307AB</SHA1>
+      <FileSize>73894</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Drivetrain motor assembly.SLDASM</FileName>
+      <SHA1>62955E30C636AB23BC9AEA235B6FEF9D87F64467</SHA1>
+      <FileSize>618542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Hex Shaft.SLDPRT</FileName>
+      <SHA1>2ADD44B6BC3A95D9D1500FBA7AA69BA7BF12D2DF</SHA1>
+      <FileSize>66189</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Lasercut Base.SLDPRT</FileName>
+      <SHA1>B4D7D6673BB9E986F8F05C9638F2AA740630321A</SHA1>
+      <FileSize>135998</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Metal Gear-Shaft Interface.SLDPRT</FileName>
+      <SHA1>FFB8765EEACF3C63124932D3C0C37F1289A442BD</SHA1>
+      <FileSize>91095</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Motor.SLDPRT</FileName>
+      <SHA1>B1D120D35012E0AD7F62E5ABFF302C7949195951</SHA1>
+      <FileSize>116469</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\PSet1_MotorMount_JackGoodwin.SLDPRT</FileName>
+      <SHA1>3224AF9976EF085A2E2058B0794C0025A3F0D19B</SHA1>
+      <FileSize>312429</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Planetary Gearbox.SLDPRT</FileName>
+      <SHA1>43DAEF8C1F1CCEFEAFE2CD6C74D37987B1B9D7E8</SHA1>
+      <FileSize>101871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Round aluminum shaft.SLDPRT</FileName>
+      <SHA1>0B6E719DDE307321954783EB086A263283C397A9</SHA1>
+      <FileSize>67512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\Small Washer.SLDPRT</FileName>
+      <SHA1>10A276451F90117AEEBD0AF0A29D3BF419316090</SHA1>
+      <FileSize>58945</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\aluminum shaft support-undriven.SLDPRT</FileName>
+      <SHA1>222D5C87C33725E184DD4BE723467CFA2CF2BB24</SHA1>
+      <FileSize>90593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\aluminum shaft support.SLDPRT</FileName>
+      <SHA1>CD94BB6610A21C5353D424B5B726B3A4A4E84DE0</SHA1>
+      <FileSize>88139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\gear 16T 32DP Broached 025.SLDPRT</FileName>
+      <SHA1>E3282724A98A9D400DAFC93CB1656F0A423D26CA</SHA1>
+      <FileSize>565364</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain motor\gear 48T 32DP Drilled Spring Pin 00625.SLDPRT</FileName>
+      <SHA1>E8C1E0F23CA6600DB768272E9F0E9FED35E85AD3</SHA1>
+      <FileSize>1316641</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain solidworks.SLDASM</FileName>
+      <SHA1>A854BDDC614D0D69038F0E810F83B07DC6920840</SHA1>
+      <FileSize>1806939</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\6495K719_TIMING BELT PULLEY.SLDPRT</FileName>
+      <SHA1>C4F9ADAE4F40BE7C99D387DEA57D142906095D12</SHA1>
+      <FileSize>244295</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\Drivetrain wheel axle and belt gear driven.SLDASM</FileName>
+      <SHA1>9D83B9FDB0E2330454F4EEF6E164DFED0A466B68</SHA1>
+      <FileSize>128486</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\Wheel.SLDPRT</FileName>
+      <SHA1>6B037A97BED484A2C70F38C7D3ED0D7677727104</SHA1>
+      <FileSize>62647</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\belt gear.SLDPRT</FileName>
+      <SHA1>8532379E65E393DC00D4B3414A6EF276A7E95385</SHA1>
+      <FileSize>221814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\timing belt .200 pitch 22in outer circle.SLDPRT</FileName>
+      <SHA1>A524058E7AB4E14525CB95033A7D1EC023AEB434</SHA1>
+      <FileSize>1906694</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle driven\wheel axle.SLDPRT</FileName>
+      <SHA1>0BAF2E3B64A68CAA9605900E8253AF889D22DA9D</SHA1>
+      <FileSize>81219</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\6495K719_TIMING BELT PULLEY.SLDPRT</FileName>
+      <SHA1>A588D20ACFF137F7962EA6806F9C945848D7C198</SHA1>
+      <FileSize>245951</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\Drivetrain wheel axle and belt gear free.SLDASM</FileName>
+      <SHA1>BD482AE081A7AFA6F8278DB42833CE1C2D8FDEB4</SHA1>
+      <FileSize>128214</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\Wheel.SLDPRT</FileName>
+      <SHA1>04065FAE00ABDD417E5A19333E95BB07B86CCBC0</SHA1>
+      <FileSize>62362</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\belt gear.SLDPRT</FileName>
+      <SHA1>8532379E65E393DC00D4B3414A6EF276A7E95385</SHA1>
+      <FileSize>221814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\timing belt .200 pitch 22in outer circle.SLDPRT</FileName>
+      <SHA1>A524058E7AB4E14525CB95033A7D1EC023AEB434</SHA1>
+      <FileSize>1906694</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\Drivetrain wheel and axle free\wheel axle free.SLDPRT</FileName>
+      <SHA1>08812F8836A32067FBE2BBB7C26266B733DDFA7F</SHA1>
+      <FileSize>93067</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\6389K627_LIGHT DUTY DRY-RUNNING SLEEVE BEARING.SLDPRT</FileName>
+      <SHA1>5E0B4AE849365D75791CB985CDE5E45FF8519BE8</SHA1>
+      <FileSize>91439</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\90480A005_LOW-STRENGTH STEEL HEX NUT.SLDPRT</FileName>
+      <SHA1>93B9A1AD78143539B8DDE608DC89F90BDD6C5CC8</SHA1>
+      <FileSize>287559</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\91772A113_18-8 SS PAN HEAD PHILLIPS MACHINE SCREW.SLDPRT</FileName>
+      <SHA1>8F8CF577BD4EEAEF59037E6D17BE83DCFFBBDB56</SHA1>
+      <FileSize>950831</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Assem2.SLDASM</FileName>
+      <SHA1>25EC9021A62FE78473610EA613FF3293CBD58C70</SHA1>
+      <FileSize>138572</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Chassis_Side.SLDPRT</FileName>
+      <SHA1>F55A5909E2536EA70077C2D66C5259FFAC438678</SHA1>
+      <FileSize>91639</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Chassis_top.SLDPRT</FileName>
+      <SHA1>FAFB8CBC1DEB8E6CA5456AD9863BFEAD234B9724</SHA1>
+      <FileSize>110956</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Chassis_v1.0.SLDASM</FileName>
+      <SHA1>237D5097520017D5BBCF74F5C42D0BF21A4BEAEE</SHA1>
+      <FileSize>119641</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Delrin shaft support.SLDPRT</FileName>
+      <SHA1>D0A6D70E66687812AA887FE8770A4BE0BC2ED5AB</SHA1>
+      <FileSize>72701</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Drivetrain motor assembly.SLDASM</FileName>
+      <SHA1>1BED5F3C3F2DBF52D733253305001AEE3A7D40F5</SHA1>
+      <FileSize>621673</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Drivetrain solidworks.SLDASM</FileName>
+      <SHA1>C03E4E730C2EE511614C1C9A84EF7967236DFB18</SHA1>
+      <FileSize>1435394</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Drivetrain wheel axle and belt gear driven.SLDASM</FileName>
+      <SHA1>1BEFC0E9BE1E72BC6EA2528CFFACC6A0F4B1A759</SHA1>
+      <FileSize>148498</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Drivetrain wheel axle and belt gear free.SLDASM</FileName>
+      <SHA1>3F8907CCD3D9D402A83127E8C60E8563A213777B</SHA1>
+      <FileSize>126255</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Hex Drive Shaft.SLDPRT</FileName>
+      <SHA1>13A48C73F066EC4537433AD865A0BCF10376067F</SHA1>
+      <FileSize>71920</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Lasercut Front Plate.SLDPRT</FileName>
+      <SHA1>C33B020477258FACC8AF191C45DF0776B4312C43</SHA1>
+      <FileSize>134253</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\VerticalThing.SLDPRT</FileName>
+      <SHA1>938124580E9E652026F22773306DD45584647B46</SHA1>
+      <FileSize>80863</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\Wheel.SLDPRT</FileName>
+      <SHA1>FB5D167E3B11E5D01DC1F60F0F08A5D53426B9AB</SHA1>
+      <FileSize>62918</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\aluminum shaft support.SLDPRT</FileName>
+      <SHA1>D6AA752774BF22457FE7D1D230A79D1DE3B1B0A6</SHA1>
+      <FileSize>85757</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\belt gear.SLDPRT</FileName>
+      <SHA1>F0BD3209238EE040E003012EE8A307F1652EC587</SHA1>
+      <FileSize>222858</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\gear 16T 32DP Broached 025.SLDPRT</FileName>
+      <SHA1>BCF18B1ED5493BA0B5A54FBB18AF6161A19CD5E0</SHA1>
+      <FileSize>563058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\gear 48T 32DP Drilled Spring Pin 00625.SLDPRT</FileName>
+      <SHA1>1D51EB49B498579F031531ECE73200C62AF942F4</SHA1>
+      <FileSize>1316495</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\horizontalthing.SLDPRT</FileName>
+      <SHA1>887C56F8D7FA70B217E6408327A4F4BE4543A1EE</SHA1>
+      <FileSize>72180</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\wheel axle free.SLDPRT</FileName>
+      <SHA1>CA0488B6490C2C70FDE230DE065AE870506938DF</SHA1>
+      <FileSize>77902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Drivetrain v1\drive-download-20190404T190054Z-001\wheel axle.SLDPRT</FileName>
+      <SHA1>62234FDB5134CBCFFD38E5D618047042A5829679</SHA1>
+      <FileSize>82060</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FULL BOT-Drawing.JPG</FileName>
+      <SHA1>A189BB703BA691DB10F2670017B533D28C68BE06</SHA1>
+      <FileSize>71463</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FULL BOT-Drawing.SLDDRW</FileName>
+      <SHA1>65C67FC0B7B3495165D249F2B6E7FBCD03A1D32B</SHA1>
+      <FileSize>574072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FULL BOT.SLDASM</FileName>
+      <SHA1>F64FD21950A58DDA5AF6ABFA96C43BD17AD36BA9</SHA1>
+      <FileSize>4515136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>FULL BOT.zip</FileName>
+      <SHA1>47C4F956345BDDF71E8FA4363CC7E614A044773F</SHA1>
+      <FileSize>20533977</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Fake 64T gear.SLDPRT</FileName>
+      <SHA1>7C0906624C72C654B0864EF05E6AC6563D3C5118</SHA1>
+      <FileSize>51503</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Gear 64T 32DP.SLDPRT</FileName>
+      <SHA1>373FF82BC63B0FDC78D43642995F426DAE30CE1B</SHA1>
+      <FileSize>994621</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Geat 64T.SLDPRT</FileName>
+      <SHA1>047844B8FAD2DBE81CBD6777DB2AEA8A6057D05E</SHA1>
+      <FileSize>886954</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher assembly.SLDASM</FileName>
+      <SHA1>D29CB3FB726418E021E0F27CC27106030DDC6C25</SHA1>
+      <FileSize>655042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher wheel.JPG</FileName>
+      <SHA1>1F230FF3004D1E7891340D3CE6615D30DF278E28</SHA1>
+      <FileSize>145870</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher wheel.SLDDRW</FileName>
+      <SHA1>C863036A6CD09DCB81657C982DD2DACD7D32822A</SHA1>
+      <FileSize>114190</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher wheel.SLDPRT</FileName>
+      <SHA1>026CC79DBBB5732E4EC3C1FBA992DBB275EB69B7</SHA1>
+      <FileSize>95634</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher-ramp.SLDPRT</FileName>
+      <SHA1>048E88F668C3A6FE2B73DFB62EF7A226268DB1D7</SHA1>
+      <FileSize>86151</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher-sidewalls.DXF</FileName>
+      <SHA1>3C7BFB1D822130920EC14E61D77BC02647B1EC26</SHA1>
+      <FileSize>32092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Launcher-sidewalls.SLDPRT</FileName>
+      <SHA1>3EA567320CF99C2CA1839144180B76552FCAD366</SHA1>
+      <FileSize>151352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Motor mount support.SLDPRT</FileName>
+      <SHA1>4C38997DE9B9DA606B461AC43479B8BC06689E3F</SHA1>
+      <FileSize>78975</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Ramp Sheet-Joined.JPG</FileName>
+      <SHA1>1354A49B3DEC13E225A4B170C0D62D77C53FE007</SHA1>
+      <FileSize>182300</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Ramp Sheet-Joined.SLDDRW</FileName>
+      <SHA1>E94DE2BA4242E600BC3EB480603FB383E78AAE6C</SHA1>
+      <FileSize>125690</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Round Shaft launcher lathe drawing.PDF</FileName>
+      <SHA1>D78029CFDD259B78146EAADE11B10C0395EA4312</SHA1>
+      <FileSize>54569</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Round Shaft launcher lathe drawing.SLDDRW</FileName>
+      <SHA1>4F7823BB9077C91BD339C74416D24692EA3D274C</SHA1>
+      <FileSize>106241</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\Round Shaft launcher wheel.SLDPRT</FileName>
+      <SHA1>94164439A3E3B8B62A81ECF66167906FBBDC342A</SHA1>
+      <FileSize>78417</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\SDP_a_1m_2-ta32064\SDP_a_1m_2-ta32064.stp</FileName>
+      <SHA1>2B172DD5610F5BB99477E2561AFF7D088A282541</SHA1>
+      <FileSize>1397947</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\launcher ramp cut\Launcher-rampCutLeft.SLDPRT</FileName>
+      <SHA1>DAC615AE88935F73FB6A325DF2B46A218817A085</SHA1>
+      <FileSize>103077</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\launcher ramp cut\Launcher-rampCutRight.SLDPRT</FileName>
+      <SHA1>06CF141F9C1741877EABD14B62B1A124EBE43D0E</SHA1>
+      <FileSize>94748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\launcher ramp cut\cut ramp joiners.SLDPRT</FileName>
+      <SHA1>082ED38FEAE20D108B556EE685135B2D7D61C2F5</SHA1>
+      <FileSize>55538</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\launcher ramp cut\ramp joined.SLDASM</FileName>
+      <SHA1>1360CB43816FC5538866BEA9DABFE74EF639B40E</SHA1>
+      <FileSize>53301</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\motor hex shaft printed - Copy - Copy.SLDPRT</FileName>
+      <SHA1>F796EA9FFE3892506DB13669DE61ABD1703CBE1D</SHA1>
+      <FileSize>74947</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\motor hex shaft printed - Copy.SLDPRT</FileName>
+      <SHA1>423DF59837B6F5AA2D707532C8FE7E9CC8A96AFA</SHA1>
+      <FileSize>77551</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\motor hex shaft printed-tighter.SLDPRT</FileName>
+      <SHA1>A1A86C6870EFFFD0F3A6E0D5BA386D413337DEDE</SHA1>
+      <FileSize>79393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\motor hex shaft printed.SLDPRT</FileName>
+      <SHA1>833D17A07DA463858BB06D2FDB4F170B1C5AEA9C</SHA1>
+      <FileSize>78575</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\robot tennisball launcher\Assembly.SLDASM</FileName>
+      <SHA1>ADA95782C932C2FE7AED2B3E75186AC88CB33FDB</SHA1>
+      <FileSize>167277</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\robot tennisball launcher\chassis.SLDPRT</FileName>
+      <SHA1>D7D67031944C5E6430B1139F3A755E00929821C4</SHA1>
+      <FileSize>288913</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\robot tennisball launcher\scoop.SLDPRT</FileName>
+      <SHA1>F5CCB3F3D44CDEDF1A969B91E54508F01D72F8EC</SHA1>
+      <FileSize>129497</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Launcher\robot tennisball launcher\tube.SLDPRT</FileName>
+      <SHA1>04AC1F4C26FB168F043730C39294DC06014007CE</SHA1>
+      <FileSize>183973</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>New-TIMING BELT PULLEY-1.528 pitch diameter.SLDPRT</FileName>
+      <SHA1>526FAE2F7EA1916D9C60E2808AAD85914D08328F</SHA1>
+      <FileSize>268496</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\2 inch shaft.SLDDRW</FileName>
+      <SHA1>D7FB738E4313D3B8BF6D1511DA73CD281DE613D2</SHA1>
+      <FileSize>102872</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\2 inch shaft.SLDPRT</FileName>
+      <SHA1>8D8B1A58F6158539A7BF9D57DB3E8A03662FFAF3</SHA1>
+      <FileSize>89841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Arm.SLDPRT</FileName>
+      <SHA1>EB6BA7464B84F0865D8A5E9C557E4097FAC96941</SHA1>
+      <FileSize>115024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Assem1.SLDASM</FileName>
+      <SHA1>697729867B3889E679B9E65188014CC42C2D795B</SHA1>
+      <FileSize>370772</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\FullScoop.SLDPRT</FileName>
+      <SHA1>FAEC755D22CFCDCA5559BE0EC7FA69D75247271C</SHA1>
+      <FileSize>120112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\FullScoop.STL</FileName>
+      <SHA1>B24AE2CB53E21FE3405FEDF189B70387FC641E58</SHA1>
+      <FileSize>41184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\FullScoop2.SLDPRT</FileName>
+      <SHA1>00D7D226E42BDD26256890C4685AA681A2939E9B</SHA1>
+      <FileSize>150659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Scoop shaft support.SLDDRW</FileName>
+      <SHA1>830B72CB3C1997D8B7E5B1A4B321F051E14FD573</SHA1>
+      <FileSize>107052</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Scoop shaft support.SLDPRT</FileName>
+      <SHA1>8565DAFC8730F096D63E5046F89610F6AE70671A</SHA1>
+      <FileSize>60258</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem - Arm-1.STL</FileName>
+      <SHA1>828EA74D1801E6E7201AF220739452337C3126F0</SHA1>
+      <FileSize>38484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem - Scooper-1.STL</FileName>
+      <SHA1>D5A20EFD9AAA8F36166B14C25A58D0775DE4742C</SHA1>
+      <FileSize>2684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem.JPG</FileName>
+      <SHA1>4CE563713C8AE6811AC86795BD7AFF80BD5492F3</SHA1>
+      <FileSize>160287</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem.SLDASM</FileName>
+      <SHA1>D708F5BD3D41E68AC93606285268FE271A0EBC01</SHA1>
+      <FileSize>79821</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem.SLDDRW</FileName>
+      <SHA1>FC32FE1A48F9208C59BD73B8C238E33E7A69CC97</SHA1>
+      <FileSize>110055</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\ScoopAssem.SLDPRT</FileName>
+      <SHA1>1E733CA330BCFE1A1E9100329196FF124A45499D</SHA1>
+      <FileSize>84942</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Scooper.SLDPRT</FileName>
+      <SHA1>E3463B8C99873EFB642EE84AAF283D80A006FB74</SHA1>
+      <FileSize>131604</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Servo SpringRC Rev1.SLDPRT</FileName>
+      <SHA1>09FB301D37859EEA6351DE0D8C79EEE271485B36</SHA1>
+      <FileSize>538256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support.SLDPRT</FileName>
+      <SHA1>37469AE44B1037BB031B24423639F798BED0C7D2</SHA1>
+      <FileSize>48909</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support1.DXF</FileName>
+      <SHA1>498B6AE72EFACAC664870515A32B9FEDB36B08D5</SHA1>
+      <FileSize>25988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support1.SLDPRT</FileName>
+      <SHA1>1CE8014804839ACFD84EBFB772BD329015B17C88</SHA1>
+      <FileSize>72600</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support2.DXF</FileName>
+      <SHA1>858C1311F4D72106FF27EA16C28F2EC91F62967F</SHA1>
+      <FileSize>37780</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support2.SLDPRT</FileName>
+      <SHA1>E40E1447A76CE31B7441691A007E8AF66E8C2B9D</SHA1>
+      <FileSize>100027</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support2_1.DXF</FileName>
+      <SHA1>EE47B010108FA9ED488908A95411F0D1A4D4FEE7</SHA1>
+      <FileSize>28921</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support3.DXF</FileName>
+      <SHA1>4E4E8B748FE66AF53DB24D3D4D984EEF77393CF8</SHA1>
+      <FileSize>30030</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\Support3.SLDPRT</FileName>
+      <SHA1>5A17C71C618F015883CEE954196FF5CC2082C96C</SHA1>
+      <FileSize>87984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\SupportAssem.SLDASM</FileName>
+      <SHA1>EB2CD35AB1CE9ED01185F2721AEE1CB691DBBB7B</SHA1>
+      <FileSize>355993</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\WiderScooper.SLDPRT</FileName>
+      <SHA1>DE47B06A8F2A3D1EB79B68E02D9FB73D94BA488E</SHA1>
+      <FileSize>116089</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Scoop\hs-422_horn_2wings_sws.SLDPRT</FileName>
+      <SHA1>8A27DD1CDAA41B5A973E2C687BE9D4D23AD70D0E</SHA1>
+      <FileSize>201493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>motor hole test piece.SLDPRT</FileName>
+      <SHA1>364393500EC0903105DEE34FF6C7DE9FD8FC046E</SHA1>
+      <FileSize>66253</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wheel axle driven sheet.PDF</FileName>
+      <SHA1>37CA03322070927A8E31D868EFB7C9F8FD4B7A42</SHA1>
+      <FileSize>53517</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wheel axle driven sheet.SLDDRW</FileName>
+      <SHA1>A7048B2B4644F161E823DDBF274614CDB1CF03ED</SHA1>
+      <FileSize>113677</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wheel axle free sheet.PDF</FileName>
+      <SHA1>9705D59456D208D33242FBA7038D868CC6844945</SHA1>
+      <FileSize>52329</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wheel axle free sheet.SLDDRW</FileName>
+      <SHA1>681F76A98C8633C617BC149C0DBAF3C8FEFB243D</SHA1>
+      <FileSize>99420</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

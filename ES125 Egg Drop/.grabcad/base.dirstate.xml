@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2019-12-09T03:51:07.6034001+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>T-bracket bottom.SLDPRT</FileName>
+      <SHA1>BECA5D602BAC22A25A678AD5120347E43EF6089A</SHA1>
+      <FileSize>56319</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket top.SLDPRT</FileName>
+      <SHA1>53228081A57AC125F3BF88B3DC2B236D2EC930FA</SHA1>
+      <FileSize>103809</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket without holes.SLDASM</FileName>
+      <SHA1>7D061266442F1FAF9453F8BF20090D9FFF3B90C1</SHA1>
+      <FileSize>74074</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3762A\3762Acoil.SLDPRT</FileName>
+      <SHA1>3BFCD1D825FCE76982AF9C580CDE2F3DBED0647C</SHA1>
+      <FileSize>404162</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3762A\preview.JPG</FileName>
+      <SHA1>6997C8EC27ED45686266790AC02724B2B40EE68E</SHA1>
+      <FileSize>306478</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3762A\Traxxas 3762A.SLDASM</FileName>
+      <SHA1>BD2E15E745D0E1428D646CE9A3CA1D606EC4A439</SHA1>
+      <FileSize>1006584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3762A\Traxxas 3762A.STEP</FileName>
+      <SHA1>5B5A03CEAF9943C88A02385A0EF449DC7DC971D5</SHA1>
+      <FileSize>1087055</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>3762A\Traxxas 3762A.STL</FileName>
+      <SHA1>A5CAD858436036EADD03E9A65338089AC5E154CA</SHA1>
+      <FileSize>5507784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Plate.SLDPRT</FileName>
+      <SHA1>C633AC77871885A08C7942D8C5AD98799B81F95B</SHA1>
+      <FileSize>140676</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Plate-no holes.SLDPRT</FileName>
+      <SHA1>F4DA4685C9FB0514E26CFCB9355F21FBC64AA55B</SHA1>
+      <FileSize>105184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Egg Drop Assembly.SLDASM</FileName>
+      <SHA1>C556866055A99777A69E5723B179380B8F123461</SHA1>
+      <FileSize>585982</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket bottom assembly.SLDASM</FileName>
+      <SHA1>77F01C90E5996C0C0A401DFBD0BA56669CA197DE</SHA1>
+      <FileSize>88702</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket bottomend.SLDASM</FileName>
+      <SHA1>36447C6301FCC646E9434AF3CAB68C043EC04ADC</SHA1>
+      <FileSize>80736</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket top 1.SLDPRT</FileName>
+      <SHA1>C1F5BF8C8348B6B289FC87CC56A4AC0EA6E07486</SHA1>
+      <FileSize>104850</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket top 2.SLDPRT</FileName>
+      <SHA1>D16284BA8A64D7A734767DB020BC9A5619E40107</SHA1>
+      <FileSize>98236</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket top assembly.SLDASM</FileName>
+      <SHA1>1C6CACD47E7E38A3FD1B33F5A6F438AB7903630B</SHA1>
+      <FileSize>76525</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket top2.SLDPRT</FileName>
+      <SHA1>A06B9F0B3FD96BBF31C3DF44B3A6305228DFBA1A</SHA1>
+      <FileSize>95719</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>T-bracket topend.SLDASM</FileName>
+      <SHA1>7B25C92B83AECF28A1DA07F5C292D50989CCB072</SHA1>
+      <FileSize>77035</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
